@@ -1,0 +1,47 @@
+body, h1, h2, h3, p {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #e79c9c;
+    padding: 20px;
+    text-align: center;
+}
+
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+#hero {
+    text-align: center;
+    padding: 100px 20px;
+    background-color: #d5a7a7;
+}
+
+#about, #services {
+    text-align: center;
+    padding: 50px 20px;
+}
+#about{
+    background-color: rgb(241, 237, 230);
+}
+#contact{
+    background-color: #f0eded;
+    text-align: center;
+}
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #f2f2f2;
+}
